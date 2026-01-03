@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c6ef5,100:845ef7&height=200&section=header&text=Ashley%20Leslie&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Developer&descSize=20&descAlignY=55&descAlign=50"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-asleslie.com-4c6ef5?style=for-the-badge)](https://asleslie.com/en)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-asleslie.com-4c6ef5?style=for-the-badge)](https://asleslie.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashley_Leslie-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-leslie-335842275/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashleysamleslie0503@gmail.com)
 
@@ -18,7 +18,7 @@ Senior Software Developer with **7+ years** building enterprise software. I spec
 
 > [!NOTE]
 > Most professional work lives in private repos (company GitLab / self-hosted).
-> **Full project details & case studies** → [asleslie.com](https://asleslie.com/en)
+> **Full project details & case studies** → [asleslie.com](https://asleslie.com/)
 
 ---
 
@@ -332,6 +332,6 @@ Senior Software Developer with **7+ years** building enterprise software. I spec
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Full_Portfolio_&_Case_Studies-asleslie.com-4c6ef5?style=for-the-badge)](https://asleslie.com/en)
+[![Portfolio](https://img.shields.io/badge/Full_Portfolio_&_Case_Studies-asleslie.com-4c6ef5?style=for-the-badge)](https://asleslie.com/)
 
 </div>
